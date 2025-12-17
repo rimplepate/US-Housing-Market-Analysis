@@ -1,4 +1,4 @@
-US Housing Market Analysis: Macroeconomic Drivers & Modeling
+# US Housing Market Analysis: Macroeconomic Drivers & Modeling
 This project explores the relationship between various macroeconomic factors and the US House Price Index (HPI) from 1987 to 2021. It combines SQL-based data engineering with Python-driven Exploratory Data Analysis (EDA) and Machine Learning to identify key predictors of housing price fluctuations.
 
 📊 Project Overview
