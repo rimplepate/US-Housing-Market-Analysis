@@ -54,6 +54,6 @@ GDP: Significant contributor (0.076) reflecting overall economic health.
 🚀 How to Use
 SQL Analysis: Run the queries in Housing_market_analysis.sql on your SQL environment (ensure the table name matches your database) to see high-level trends and recession impacts.
 
-Python Analysis: * Install requirements: pip install pandas numpy matplotlib seaborn scikit-learn
+Python Analysis:  Install requirements: pip install pandas numpy matplotlib seaborn scikit-learn
 
 Open Housing_Market_EDA_&_Modeling.ipynb to view the full data science pipeline, from missing value handling to model evaluation.
